@@ -1,0 +1,1 @@
+const getIpDetails = (req, res) => {};
